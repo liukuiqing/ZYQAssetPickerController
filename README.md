@@ -1,3 +1,4 @@
+自定义从相册多选图片
 ZYQAssetPickerController
 ========================
 [![](http://i.imgur.com/Yv6RIjd.gif?1)](http://i.imgur.com/Yv6RIjd.gif?1)
